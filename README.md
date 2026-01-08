@@ -7,7 +7,6 @@ This project uses Power BI to analyse customer churn within a telecommunications
 - **Power BI**
 - DAX
 - Power Query
-- Data modelling
 
 ## 📊 Dataset
 - ~7,000 customer records  
@@ -34,5 +33,7 @@ This project uses Power BI to analyse customer churn within a telecommunications
 ## ✅ Skills Demonstrated
 - Building interactive Power BI dashboards  
 - Writing DAX measures  
-- Data modelling and transformation  
-- Insight generation and data storytelling  
+- Insight generation and data storytelling
+
+  ## 📸 Dashboard Preview
+![Power BI Customer Churn Dashboard](screenshots/dashboard.png)
