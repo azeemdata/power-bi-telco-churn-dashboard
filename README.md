@@ -36,4 +36,4 @@ This project uses Power BI to analyse customer churn within a telecommunications
 - Insight generation and data storytelling
 
   ## 📸 Dashboard Preview
-![Power BI Customer Churn Dashboard](screenshots/dashboard.png)
+![Power BI Customer Churn Dashboard](Power BI Dashboard.pdf)
